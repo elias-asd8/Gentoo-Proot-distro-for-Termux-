@@ -36,4 +36,6 @@ But EMerge is different from other package managers, u need to specify the categ
 ```bash
 emerge --ask <CATEGORY>/<PACKAGE-NAME>
 ```
+(I intentionally didnt add a script cuz if u rely on random scripts Gentoo will be HELL for u)
+
 # Have fun and dont throw ur phone out the window! 😄
